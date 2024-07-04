@@ -4,7 +4,7 @@ const PageHeader = () => {
   return (
     <header>
       <span>
-        Carrinho de compras do <b>fernandev</b>
+        React Challenge - <b>e-commerce Cart</b>
       </span>
     </header>
   );

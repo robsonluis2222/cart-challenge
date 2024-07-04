@@ -1,0 +1,29 @@
+.desconto-div{
+    display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 18px;
+    width: 300px;
+    height: 200px;
+    background-color: rgb(190, 190, 190);
+    position: fixed;
+    left: 40%;
+    border-radius: 15px;
+    padding: 20px 20px;
+}
+.desconto-div button{
+    width: 80px;
+    height: 30px;
+}
+.desconto-div i{
+    color: red;
+    position: absolute;
+    right: 18px;
+    top: 18px;
+    font-size: 20px;
+    cursor: pointer;
+}
+button{
+    cursor: pointer;
+}
